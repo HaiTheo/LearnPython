@@ -20,3 +20,6 @@ greeting =  "My name is Tran Thanh Hai"
 print(greeting)
 print("Hello world")
 print(spam + "Hello my friend")
+print(type(42))
+print(type(42.0))
+print(type('42'))
