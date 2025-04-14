@@ -18,3 +18,5 @@ print (spam)
 greeting = "Hi"
 greeting =  "My name is Tran Thanh Hai"
 print(greeting)
+print("Hello world")
+print(spam + "Hello my friend")
