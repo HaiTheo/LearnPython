@@ -29,3 +29,9 @@ hello="THanh hai"
 print('Hi there' + hello + 'welcome to Python')
 print('Hi there' + hello + 'welcome you to my home')
 print('1 Line cung code')
+print
+spam = "hello"
+print('spam1: ' + spam)
+
+spam = "Goodbye"
+print('spam2: ' +spam)
