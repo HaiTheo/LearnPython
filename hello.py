@@ -39,3 +39,10 @@ print('spam2: ' +spam)
 variable1 = "Cai gi khong giet duoc ban,"
 variable2 = "Se lam ban manh me hon do."
 print(variable1, variable2)
+
+variable3= "Biet di dau ma tim"
+
+current_balance = "variable1"
+current-ballance = "variable2"
+currentBalance = "variable3"
+current Balance = "variable4"
