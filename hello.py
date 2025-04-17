@@ -35,3 +35,7 @@ print('spam1: ' + spam)
 
 spam = "Goodbye"
 print('spam2: ' +spam)
+
+variable1 = "Cai gi khong giet duoc ban,"
+variable2 = "Se lam ban manh me hon do."
+print(variable1, variable2)
