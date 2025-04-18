@@ -47,3 +47,7 @@ current-ballance = "variable2"
 currentBalance = "variable3"
 current Balance = "variable4"
 HELLO = "HELLO MY FRIENDS"
+print('Hello, world!')
+print('what is your name?') #ask for their name
+myName = input()
+print('It is good to meet you')
