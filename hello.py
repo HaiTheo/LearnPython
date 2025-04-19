@@ -23,7 +23,7 @@ print(type(42.0))
 print(type('42'))
 print("Test push code")
 print("Continue to leanrn code")
-print('Hi there, ' +  + '! Welcome to Python!')
+# print('Hi there, ' +  + '! Welcome to Python!')
 print('Hi there, ')
 hello="THanh hai"
 print('Hi there' + hello + 'welcome to Python')
@@ -43,9 +43,9 @@ print(variable1, variable2)
 variable3= "Biet di dau ma tim"
 
 current_balance = "variable1"
-current-ballance = "variable2"
+# current-ballance = "variable2"
 currentBalance = "variable3"
-current Balance = "variable4"
+# current Balance = "variable4"
 HELLO = "HELLO MY FRIENDS"
 print('Hello, world!')
 print('what is your name?') #ask for their name
@@ -59,4 +59,5 @@ print('The length of your name is')
 print(len(myName))
 print('What is your age?') #ask for their age
 myAge = input()
-print('You will be ' + str(int(myAge)+ 1) + 'in a year.')
+# print('You will be ' + str(int(myAge)+ 1) + 'in a year.')
+myName = input()
